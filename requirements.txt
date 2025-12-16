@@ -1,8 +1,9 @@
 # prompt: make full req text file with minor details 
 
 streamlit
-matplotlib
 pandas
 numpy
+matplotlib
+statsmodels
 scikit-learn
-pickle
+joblib
